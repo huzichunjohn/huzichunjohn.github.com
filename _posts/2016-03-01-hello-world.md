@@ -9,6 +9,6 @@ tags: []
 ## this is a title.
 this is my content.
 
-### there is something wrong.[http://huzichunjohn.github.io]
-do you love me?
+### [there is something wrong.](http://huzichunjohn.github.io)
+do you love me?  
 oh, no.
